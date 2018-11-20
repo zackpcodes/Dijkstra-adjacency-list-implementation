@@ -1,5 +1,4 @@
-// CSCI 2530
-// Assignment: 7
+
 // Author:     Zackary Pulaski
 // File:       dijkstra.cpp
 // Tab stops:  4
